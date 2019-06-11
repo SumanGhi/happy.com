@@ -1,0 +1,18 @@
+Exception (PDO, Select) 2019-04-24 17:56:57: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Exception (PDO, Select) 2019-04-24 17:57:21: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound
+Exception (PDO, Select) 2019-04-24 18:05:05: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'full_name' in 'field list'
+Exception (PDO, Update) 2019-04-25 18:04:36: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' remember_token = 'V58cOvOxQ3mkSKvqhhTLdjpvfIB7xRPlzrIbc8XauhCtVPMfpORDWZwuOeLrU' at line 1
+Exception (PDO, Select) 2019-04-25 18:28:08: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'remeber_token' in 'where clause'
+Exception (PDO, Select) 2019-04-25 18:28:37: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'remeber_token' in 'where clause'
+Exception (PDO, Select) 2019-04-25 18:29:16: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'remeber_token' in 'where clause'
+Exception (PDO, Select) 2019-04-25 18:30:49: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'remeber_token' in 'where clause'
+Exception (PDO, Connection) 2019-05-02 11:28:53: SQLSTATE[HY000] [1049] Unknown database 'blog_600'
+Exception (PDO, Select) 2019-05-02 17:47:43: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Insert) 2019-05-02 17:48:03: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:03: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:09: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:11: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:12: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:13: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:14: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
+Exception (PDO, Select) 2019-05-02 17:48:14: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blog_600.categories' doesn't exist
